@@ -4,6 +4,5 @@ Flutter art is a collection of apps where I try to build generative art projects
 
 ## DEMO
 
-<video controls height="600px">
-<source src="./media/demo.mp4" type="video/mp4">
+<video src="./media/demo.mp4" controls height="600px">
 </video>
